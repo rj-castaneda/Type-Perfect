@@ -183,7 +183,6 @@ const words = [
   "concern",
   "condition",
   "conference",
-  "Congress",
   "consider",
   "consumer",
   "contain",
